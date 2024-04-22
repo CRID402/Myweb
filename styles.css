@@ -1,0 +1,13 @@
+body{
+    background-color:rgba(189, 239, 218, 0.893)
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    width: 20%;
+    border-width: 5px;
+    border-color:rgb(32, 32, 203);
+}
+h1{
+    color:dimgray;
+}
